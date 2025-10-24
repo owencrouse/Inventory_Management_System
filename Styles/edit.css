@@ -1,0 +1,25 @@
+.edit {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.edit {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.edit div {
+  width: 30%;
+  min-width: 200px;
+}
+
+.edit label {
+  display: block;
+}
+.edit .form-group {
+  margin-top: 10px;
+  width: 100%;
+}
+.edit input {
+  width: 100%;
+}

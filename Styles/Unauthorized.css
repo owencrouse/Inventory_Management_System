@@ -1,0 +1,26 @@
+.unauthorized {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}
+
+.unauthorized .unauthContainer {
+  margin-top: 300px;
+  width: 300px;
+  height: 250px;
+  background-color: rgb(202, 242, 255);
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.unauthorized .unauthContainer h2 {
+  text-align: center;
+}
+
+.unauthorized .unauthContainer a {
+  text-align: center;
+}
