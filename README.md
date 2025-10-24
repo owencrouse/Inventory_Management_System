@@ -1,6 +1,6 @@
 # 🧾 Inventory Management System
 
-## 📘 1. Introduction
+## Introduction
 
 This project was created to demonstrate the knowledge and skills learned throughout **CP476 (Internet Computing)** and to gain a deeper understanding of internet-based system development by designing and building a web server that enables interaction between web users and a database server.
 
@@ -29,7 +29,7 @@ This project demonstrates the complete process — from **database setup** to **
 
 ---
 
-## ⚙️ 2. System Overview
+## System Overview
 
 The **Inventory Management System** is a centralized platform designed for efficient inventory tracking and management through an intuitive and secure web interface.
 
@@ -42,9 +42,9 @@ The system allows real-time **search, update, and deletion** of inventory data, 
 
 ---
 
-## 🧩 3. Major Functionalities
+## Major Functionalities
 
-### 🔐 Login & Authentication
+### Login & Authentication
 
 Only authorized users can access the system.
 
@@ -57,7 +57,7 @@ When valid credentials are entered, PHP verifies them and creates a cache token,
 
 ---
 
-### 🔍 Search Functionality
+### Search Functionality
 
 The **Search Functionality** allows users to quickly find inventory, supplier, or product items based on a search query.
 
@@ -71,7 +71,7 @@ This functionality enables efficient data retrieval by name or keyword.
 
 ---
 
-### ✏️ Update Functionality
+### Update Functionality
 
 Users can edit **Product** or **Supplier** information directly through in-table editing forms.
 
@@ -86,7 +86,7 @@ Users can edit **Product** or **Supplier** information directly through in-table
 
 ---
 
-### 🗑️ Delete Records
+### Delete Records
 
 Users can remove specific **Product** or **Supplier** entries with one click.
 
@@ -99,7 +99,7 @@ Users can remove specific **Product** or **Supplier** entries with one click.
 
 ---
 
-### 📊 View Tables
+### View Tables
 
 Users can view any of the main tables:
 - **Product**
@@ -115,7 +115,7 @@ This ensures all information is current and accessible from one central dashboar
 
 ---
 
-### 🚪 Logout
+### Logout
 
 Users can securely log out by clicking the **Logout** button.
 
@@ -125,7 +125,7 @@ Users can securely log out by clicking the **Logout** button.
 
 ---
 
-## 🧠 4. Technologies Used
+## Technologies Used
 
 | Component | Technology |
 |------------|-------------|
@@ -137,7 +137,7 @@ Users can securely log out by clicking the **Logout** button.
 
 ---
 
-## ✅ 5. Key Features Summary
+## Key Features Summary
 
 - Secure **login and session management**
 - Dynamic **search**, **update**, and **delete** operations
@@ -147,7 +147,7 @@ Users can securely log out by clicking the **Logout** button.
 
 ---
 
-## 👥 6. Collaborators
+## Collaborators
 
 | Name | Role | Contributions |
 |------|------|----------------|
@@ -159,7 +159,7 @@ Users can securely log out by clicking the **Logout** button.
 
 ---
 
-## 📦 7. Installation & Setup (Optional)
+## Installation & Setup (Optional)
 
 If you want to include setup instructions, here’s a quick template:
 
