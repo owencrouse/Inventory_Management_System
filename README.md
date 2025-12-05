@@ -152,8 +152,8 @@ Users can securely log out by clicking the **Logout** button.
 | Name | Role | Contributions |
 |------|------|----------------|
 | **Owen Crouse** | Database Design | PHP logic, prepared statement implementation, database setup |
-| **Charles Rocchi** | Frontend Developer | Tester / Error Handling HTML/CSS/JS interface design, form validation |
-| **Benoit Lariviere** | Frontend Developer | Tester / Documentation System testing, bug reporting | 
+| **Charles Rocchi** | Frontend Developer | Tester / Error Handling, HTML/CSS/JS interface design, form validation |
+| **Benoit Lariviere** | Frontend Developer | Tester / Documentation, System testing, bug reporting | 
 
 
 ---
