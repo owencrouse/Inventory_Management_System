@@ -158,7 +158,7 @@ Users can securely log out by clicking the **Logout** button.
 
 ---
 
-## Installation & Setup (Optional)
+## Installation & Setup 
 
 If you want to include setup instructions, here’s a quick template:
 
@@ -169,7 +169,7 @@ git clone https://github.com/yourusername/inventory-management-system.git
 # Move into the project directory
 cd inventory-management-system
 
-# Start Apache and MySQL (e.g., using XAMPP or WAMP)
+# Start Apache and MySQL 
 # Place the project folder in the htdocs directory
 
 # Open the app in your browser
